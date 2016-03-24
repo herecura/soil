@@ -4,7 +4,7 @@
 
 pkgname=soil
 pkgver=1.16
-pkgrel=1
+pkgrel=2
 pkgdesc="A tiny C lib primarily for loading textures into OpenGL"
 arch=('i686' 'x86_64')
 url="http://www.lonesock.net/soil.html"
